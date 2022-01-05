@@ -1,8 +1,9 @@
 ---
 title: Removing the edit linkset form
-layout: post
+layout: custom
 author: sonalkr132
 ---
+
 Say you have built a new futuristic website for your gem and now you want to update its homepage link on our site. *What happened to the linkset edit link?* is something you may find yourself asking when you find out that the edit link is no more (Press F?). Before more of you start [questioning your sanity](https://github.com/rubygems/rubygems.org/issues/1899#issue-406110693) over it, let us assure you that it is still the same timeline you have always lived in. While we don't have portals yet, you can now set your gem page sidebar links per version, so that's something.
 
 It started with `@fwolfst` [suggesting](https://github.com/rubygems/rubygems/issues/1007) that we should use the gemspec to set the source code link, and all we said back was:
