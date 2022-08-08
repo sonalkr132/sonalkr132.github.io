@@ -6,10 +6,10 @@ function Type() {
     <Typewriter
       options={{
         strings: [
-          "Nerd",
-          "Basic White Bitch",
-          "Mental inside",
-          "Your not so secret admirer",
+          "Nerd!",
+          "Basic White Bitch.",
+          "Mental Inside.",
+          "Your not so secret admirer.",
         ],
         autoStart: true,
         loop: true,
